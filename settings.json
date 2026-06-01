@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vumamnon-gfvB.aternos.me",
-    "port": 19956,
-    "version": "1.21",
+    "ip": "anhhao911.aternos.me",
+    "port": 29365,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Toi la mot thang beo",
+        " Ai doc lam cho",
+        " Minecraft bip toi"
       ]
     },
     "chat-log": true,
